@@ -6,16 +6,17 @@ A web application that allows you to search a variety of foods provides alternat
 
 
 Features:
-Search every variety of food 
-Get a random meal 
-Meal of the day
+*Search every variety of food 
+*Get a random meal 
+*Meal of the day
 
 
 Tech Stack: HTML | CSS | Javascript 
 
 
 Areas of responsibility:
-Fetch the API for the identical.
-Developed the Home page. 
-Created the random meal page
-Added the meal of the day page
+
+*Fetch the API for the identical.
+*Developed the Home page. 
+*Created the random meal page
+*Added the meal of the day page
